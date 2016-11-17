@@ -1,0 +1,14 @@
+Package: onionR
+Type: Package
+Version: 0.0.1
+Authors@R: person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"),
+           person("nexModeling", role = "cph"))
+Title: Build models as an onion
+Description: The package aggregates and builds models as an onion.
+Depends: R (>= 3.2.5)
+License: GPL-3
+URL: https://github.com/nexmodeling/onionR
+BugReports: https://github.com/nexmodeling/onionR/issues
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 5.0.1
