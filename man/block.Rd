@@ -11,7 +11,7 @@ block(namefield, namespace, pathRes)
 
 \item{namespace}{namespace of the package}
 
-\item{pathRes}{path of the resulst}
+\item{pathRes}{path of the results}
 }
 \description{
 block
