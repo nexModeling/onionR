@@ -1,8 +1,7 @@
 Package: onionR
 Type: Package
 Version: 0.0.1
-Authors@R: person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"),
-           person("nexModeling", role = "cph"))
+Authors@R: person("Jean-Marie", "Lepioufle", , "me@jeanmarie.eu", c("aut","cre"))
 Title: Build models as an onion
 Description: The package aggregates and builds models as an onion.
 Depends: R (>= 3.2.5)
